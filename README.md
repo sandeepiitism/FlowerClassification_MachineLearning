@@ -1,4 +1,4 @@
-# ML_FlowerClassification
+# FlowerClassification Machine Learning application
 
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-green.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/Vaaceph/iris-flower-classification/blob/master/LICENSE.md)  </br></br>
